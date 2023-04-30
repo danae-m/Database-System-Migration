@@ -1,4 +1,4 @@
-# school-projects
+# WGU-C867-Scripting-Programming-Applications
 
 This repository holds the code for my performance assessment
 from my Scripting & Programming Applications class, C867.
